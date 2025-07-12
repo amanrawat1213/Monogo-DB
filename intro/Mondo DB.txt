@@ -1,0 +1,11 @@
+commands to show students how mongoshell works
+
+show databases will show everydatabase present inside it
+use [databasename]- to switch to a particular database
+db.courses.find()-to see all the documents inside a collection of database.
+db.courses.insertOne({name:"JavaScript"})- to insert a document inside a collection
+
+Suggested to install Extension for MongoDB
+How to connect it with the MongoDB(Filling form is the best way)
+
+Can run the playground script through vs code which will insert some data in the local host server by creating a dummy database
